@@ -1,0 +1,120 @@
+# Coffee Shop Sales Dashboard in Excel
+
+## Project Overview
+This project is an **Excel-based Coffee Shop Sales Dashboard** created to analyze sales performance, customer footfall, order patterns, product demand, and store-wise performance.
+
+The dashboard helps convert raw transactional data into meaningful business insights using **Excel formulas, Pivot Tables, Pivot Charts, and slicers**. It is designed to provide an interactive view of coffee shop operations and support data-driven decision-making.
+
+---
+
+## Dashboard Preview
+The dashboard includes:
+
+- **Total Sales**
+- **Total Footfall**
+- **Average Bill per Person**
+- **Average Orders per Person**
+- **Hourly Quantity Ordered Trend**
+- **Category-wise Sales Distribution**
+- **Size-wise Order Distribution**
+- **Store Location Performance**
+- **Top 5 Products by Sales**
+- **Weekday Order Analysis**
+- **Interactive Slicers for Month and Day**
+
+---
+
+## Key KPIs
+From the dashboard:
+
+- **Total Sales:** $6,98,812.33
+- **Total Footfall:** 149,116
+- **Average Bill/Person:** 4.69
+- **Average Order/Person:** 1.44
+
+---
+
+## Features of the Dashboard
+- Interactive filtering using **Month Name** and **Day Name** slicers
+- Hourly sales trend analysis to identify peak business hours
+- Category contribution analysis using pie charts
+- Product size distribution analysis
+- Store-wise comparison of footfall and sales
+- Best-selling products identification
+- Weekday performance tracking
+
+---
+
+## Tools & Techniques Used
+- **Microsoft Excel**
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Aggregations and summaries
+- KPI cards
+- Dashboard formatting and visualization
+
+---
+
+## Project Objectives
+The main objectives of this project are:
+
+1. To analyze coffee shop sales performance
+2. To identify peak sales hours and busy weekdays
+3. To compare store-wise revenue and customer footfall
+4. To understand category and size contribution to total sales
+5. To highlight top-performing products
+6. To build an interactive dashboard for quick decision-making
+
+---
+
+## Insights Derived
+Some important insights from the dashboard:
+
+- Certain morning hours generate the highest quantity of orders
+- Coffee category contributes the largest share of sales
+- Regular and Large size orders form a major portion of total orders
+- Store locations show different levels of sales and footfall performance
+- A few products contribute significantly to overall revenue
+- Weekday order trends remain relatively stable with slight variation
+
+---
+
+## File Included
+- `Coffee Shop Sales Dashboard.xlsx` – Contains the raw dataset, Pivot Tables, and interactive dashboard
+
+---
+
+## Skills Demonstrated
+This project showcases the following skills:
+
+- Data cleaning and preparation in Excel
+- Business KPI creation
+- Dashboard design and formatting
+- Data visualization
+- Sales trend analysis
+- Product performance analysis
+- Store performance comparison
+- Interactive reporting using slicers
+
+---
+
+## How to Use
+1. Download the Excel file from this repository
+2. Open it in Microsoft Excel
+3. Go to the dashboard sheet
+4. Use the **Month** and **Day** slicers to interact with the report
+5. Analyze KPIs and charts for business insights
+
+---
+
+## Conclusion
+This Excel dashboard project demonstrates how raw sales data can be transformed into an interactive and insightful business report. It is useful for beginners and aspiring data analysts who want to strengthen their Excel dashboarding and business analysis skills.
+
+---
+
+## Author
+**Kunal Sharma**
+
+If you like this project, feel free to star the repository.
